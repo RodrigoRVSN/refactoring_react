@@ -10,6 +10,8 @@
 
 <!--- #################### mudar badges #################### --->
 
+![image](https://user-images.githubusercontent.com/75763403/136867432-96707d45-11db-4b60-97db-daa4264621dc.png)
+![image](https://user-images.githubusercontent.com/75763403/136867450-252688ce-9a3a-4187-aad0-024fe8335aab.png)
 
 <!--- #################### mudar imagem exemplo #################### --->
 
